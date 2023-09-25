@@ -11,4 +11,4 @@ Application for testing services and notifications
 
 ## Preview
 
-<img src="music_player_demonstration.gif" width=30% height=30%>
+<img src="demonstration/music_player_demonstration.gif" width=30% height=30%>
